@@ -1,11 +1,21 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "hpnlp"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# 本主页主要关注NLP领域的以下4个研究方向
+
+* 方向一：大小模型协同的多模态时间知识抽取、推理与预测
+* 方向二：大模型知识治理与知识增强
+* 方向三：大模型智能体与群体智能
+* 方向四：大模型内容安全与智能体安全
+
+----------------------------------------------
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
